@@ -1,0 +1,101 @@
+{
+  "Tomato___healthy": [
+    "Continue standard crop rotation away from solanaceous plants every 2 to 3 years.",
+    "Maintain uniform drip irrigation directly to roots to keep foliage dry.",
+    "Perform routine weekly scouting across the field for early pest or disease signs.",
+    "Use certified healthy, pathogen-free hybrid seeds and nursery transplants."
+  ],
+  "Tomato___Septoria_leaf_spot": [
+    "Prune lower foliage up to 25–30 cm above soil to prevent rain-splash inoculum.",
+    "Mulch heavily around the plant base with clean paddy straw or plastic mulch.",
+    "Avoid overhead sprinkler irrigation; water root zone during early morning.",
+    "Practice strict 3-year crop rotation avoiding tomato, potato, and eggplant."
+  ],
+  "Tomato___Bacterial_spot": [
+    "Use certified disease-free, hot-water treated seeds (50°C for 25 minutes).",
+    "Never prune, stake, or walk through fields while foliage is wet with rain or dew.",
+    "Sanitize pruning shears, stakes, and crates with 10% sodium hypochlorite or bleach solution.",
+    "Maintain wide row spacing (at least 60 cm) to ensure rapid leaf drying after rainfall."
+  ],
+  "Tomato___Late_blight": [
+    "Uproot, bag, and deeply bury or burn severely blighted plants immediately.",
+    "Destroy all volunteer tomato and potato tubers around borders before planting.",
+    "Ensure excellent field drainage and avoid planting in low-lying frost or mist pockets.",
+    "Stake and train plants on trellises to maximize sunlight and breeze through the canopy."
+  ],
+  "Cabbage___healthy": [
+    "Maintain balanced N-P-K fertilization and avoid excessive vegetative nitrogen.",
+    "Provide regular moisture at root level to prevent head splitting.",
+    "Scout nursery and field crops regularly for diamondback moth caterpillars.",
+    "Rotate fields with non-cruciferous crops (cereals or legumes) every season."
+  ],
+  "Tomato___Spider_mites": [
+    "Keep field paths and surrounding unpaved tracks damp to minimize airborne dust.",
+    "Maintain adequate soil hydration to prevent drought-stressed foliage.",
+    "Conserve natural predators such as predatory mites and ladybird beetles.",
+    "Eradicate wild weed hosts (especially wild nightshades) around bunds."
+  ],
+  "Tomato___Leaf_Mold": [
+    "Prune lower older leaves and unwanted suckers to maintain open canopy airflow.",
+    "Ventilate greenhouses, polyhouses, and tunnels to keep relative humidity below 85%.",
+    "Avoid wetting foliage during irrigation; irrigate strictly at the root zone.",
+    "Select certified resistant tomato cultivars whenever replanting."
+  ],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+    "Raise all young nursery seedlings under 40–50 mesh insect-proof netting.",
+    "Install bright yellow sticky cards (15–20 per acre) to trap whitefly vectors.",
+    "Immediately rogue out and destroy any plant showing upward leaf curling and stunting.",
+    "Plant certified TYLCV-resistant hybrid cultivars adapted to your region.",
+    "Maintain clean field borders by clearing weed hosts that shelter whiteflies."
+  ],
+  "Soybean___Frogeye_Leaf_Spot": [
+    "Plant certified disease-resistant soybean seed varieties.",
+    "Deeply plow or incorporate crop stubble after harvest to bury fungal fruiting bodies.",
+    "Rotate with corn, sorghum, or small grain crops for at least two years.",
+    "Avoid planting seed saved from fields that experienced heavy frogeye leaf blight."
+  ],
+  "Soybean___Downy_Mildew": [
+    "Select resistant soybean cultivars with proven local field performance.",
+    "Avoid excessively dense planting rates; maintain 45 cm between rows for airflow.",
+    "Rotate crops with non-legume crops such as maize or sorghum.",
+    "Ensure good field drainage to avoid prolonged standing water and canopy dampness."
+  ],
+  "Corn_(maize)___Common_rust_": [
+    "Sow corn early in the season to avoid peak spore loads during cool, damp weather.",
+    "Plant rust-resistant hybrid maize cultivars recommended by local university extension.",
+    "Maintain balanced soil fertility, avoiding excessive late-season nitrogen applications.",
+    "Rotate fields with legumes (soybean, groundnut) or cotton."
+  ],
+  "Corn_(maize)___healthy": [
+    "Perform routine soil testing to ensure balanced micro- and macro-nutrient levels.",
+    "Maintain proper plant spacing (around 60 × 20 cm) for optimal ear development.",
+    "Monitor moisture levels during tasseling and silking to protect yield potential.",
+    "Keep weed competition low during the first 30–45 days of crop growth."
+  ],
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": [
+    "Select maize hybrids with high genetic tolerance or resistance to gray leaf spot.",
+    "Chop and till under corn crop debris after harvest to degrade fungal survival sites.",
+    "Practice 2-year crop rotation with non-host crops like soybean or sunflower.",
+    "Maintain recommended plant densities to reduce leaf wetness duration."
+  ],
+  "Corn_(maize)___Lethal_Necrosis": [
+    "Plant only certified virus-free seed treated with systemic seed protectants.",
+    "Enforce a 2-month community-wide maize-free break between cropping seasons.",
+    "Rogue out and destroy infected maize plants immediately at first sign of chlorosis.",
+    "Rotate strictly with non-cereal crops (soybean, groundnut, cotton, sunflower).",
+    "Avoid planting maize adjacent to weed grasses that harbor thrips and chrysomelids."
+  ],
+  "Soybean___healthy": [
+    "Inoculate seeds with Rhizobium japonicum before planting for biological nitrogen fixation.",
+    "Maintain well-drained soils and avoid heavy equipment traffic when soil is waterlogged.",
+    "Regularly scout for defoliators and pod-feeding insects during pod development.",
+    "Rotate with corn or sorghum to preserve soil structure and microbial health."
+  ],
+  "Cabbage___Black_Rot": [
+    "Use certified disease-free seed treated with hot water (50°C for 30 minutes).",
+    "Rotate cruciferous crops on a strict 3-year rotation away from brassicas.",
+    "Avoid sprinkler or overhead irrigation; use drip lines at soil level.",
+    "Eliminate wild mustard and radish weeds along field boundaries.",
+    "Never cultivate or harvest while plants are wet with dew or rain."
+  ]
+}

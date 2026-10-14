@@ -1,0 +1,198 @@
+{
+  "Tomato___healthy": [],
+  "Tomato___Septoria_leaf_spot": [
+    {
+      "treatment_type": "Protective Contact Fungicide",
+      "active_ingredient": "Mancozeb 75% WP",
+      "description": "Multi-site protective fungicide that forms a protective chemical barrier on leaf surfaces, preventing spore germination.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Broad-Spectrum Contact Fungicide",
+      "active_ingredient": "Chlorothalonil 75% WP",
+      "description": "Non-systemic foliar protectant used at first sign of disease symptoms or during prolonged humid, rainy periods.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Systemic Curative & Protectant Fungicide",
+      "active_ingredient": "Azoxystrobin 23% SC",
+      "description": "Strobilurin systemic fungicide that inhibits fungal mitochondrial respiration, providing translaminar protection across new growth.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Tomato___Bacterial_spot": [
+    {
+      "treatment_type": "Protective Inorganic Bactericide / Fungicide",
+      "active_ingredient": "Copper Oxychloride 50% WP",
+      "description": "Releases cupric ions that disrupt protein activity in bacterial cells on the leaf surface upon contact.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Agricultural Antibacterial Combination",
+      "active_ingredient": "Streptomycin Sulphate 9% + Tetracycline Hydrochloride 1% SP",
+      "description": "Systemic agricultural bactericide combination used where recommended by state extension services under high disease pressure.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Tomato___Late_blight": [
+    {
+      "treatment_type": "Protective Contact Fungicide",
+      "active_ingredient": "Copper Hydroxide 77% WP",
+      "description": "Preventive foliar contact protectant applied before rain events to inhibit oomycete zoospore germination.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Translaminar & Systemic Fungicide Combo",
+      "active_ingredient": "Cymoxanil 8% + Mancozeb 64% WP",
+      "description": "Curative and protective combination; penetrates into leaf tissue to arrest early vegetative blight mycelium.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Systemic Anti-Oomycete Fungicide",
+      "active_ingredient": "Metalaxyl 8% + Mancozeb 64% WP",
+      "description": "Systemic fungicide targeting Phytophthora oomycetes; alternate with non-phenylamide fungicides to prevent fungal resistance.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Cabbage___healthy": [],
+  "Tomato___Spider_mites": [
+    {
+      "treatment_type": "Targeted Acaricide / Miticide",
+      "active_ingredient": "Spiromesifen 22.9% SC",
+      "description": "Lipid biosynthesis inhibitor targeting mite eggs, nymphs, and female fertility with strong translaminar activity.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Contact & Translaminar Acaricide",
+      "active_ingredient": "Fenazaquin 10% EC",
+      "description": "Mitochondrial electron transport inhibitor providing rapid knockdown of motile spider mite stages on foliage.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Macrocyclic Lactone Acaricide",
+      "active_ingredient": "Abamectin 1.9% EC",
+      "description": "Neurotoxin acaricide that penetrates into leaf parenchyma tissue, providing persistent feeding protection against spider mites.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Tomato___Leaf_Mold": [
+    {
+      "treatment_type": "Protective Contact Fungicide",
+      "active_ingredient": "Chlorothalonil 75% WP",
+      "description": "Foliar protectant applied at the first onset of pale green chlorotic patches on upper leaves.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Systemic Triazole Fungicide",
+      "active_ingredient": "Difenoconazole 25% EC",
+      "description": "Sterol demethylation inhibitor with systemic translaminar action to stop Passalora fulva mycelium growth.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+    {
+      "treatment_type": "Viral Disease Advisory (Important)",
+      "active_ingredient": "None (Viral Pathogen)",
+      "description": "This is a viral disease. There is no direct chemical cure for the virus itself. Management focuses on reducing infected plants and controlling the insect vector (whiteflies). Never spray fungicides for viral diseases.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Whitefly Vector Management (Systemic Insecticide)",
+      "active_ingredient": "Thiamethoxam 25% WG",
+      "description": "Systemic neonicotinoid insecticide applied as seedling drench or foliar spray to suppress whitefly vector populations.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Selective Vector Feeding Blocker",
+      "active_ingredient": "Diafenthiuron 50% WP",
+      "description": "Specialized whitefly and nymph feeding suppressor to minimize viral transmission rates in the early vegetative stage.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Soybean___Frogeye_Leaf_Spot": [
+    {
+      "treatment_type": "Broad-Spectrum Triazole Systemic Fungicide",
+      "active_ingredient": "Tebuconazole 25.9% EC",
+      "description": "Systemic curative fungicide applied at flowering or early pod formation when leaf lesions begin spreading.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Protective Dithiocarbamate",
+      "active_ingredient": "Mancozeb 75% WP",
+      "description": "Preventive contact foliar spray to shield healthy upper trifoliate leaves from airborne Cercospora conidia.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Soybean___Downy_Mildew": [
+    {
+      "treatment_type": "Protective Oomycete Fungicide",
+      "active_ingredient": "Copper Oxychloride 50% WP",
+      "description": "Preventive foliar spray applied when wet, cool conditions threaten soybean vegetative stages.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Fungicide Seed Dressing",
+      "active_ingredient": "Thiram 75% WS",
+      "description": "Chemical seed treatment to protect newly emerging seedlings from soil- and seed-borne oospores.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Corn_(maize)___Common_rust_": [
+    {
+      "treatment_type": "Triazole Systemic Fungicide",
+      "active_ingredient": "Propiconazole 25% EC",
+      "description": "Sterol biosynthesis inhibitor with rapid foliar uptake, suppressing rust pustule development on ear-leaf foliage.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Protective Contact Fungicide",
+      "active_ingredient": "Mancozeb 75% WP",
+      "description": "Economical foliar protectant used under moderate rust pressure before pustules spread across upper blades.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Corn_(maize)___healthy": [],
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": [
+    {
+      "treatment_type": "Premix Systemic Fungicide",
+      "active_ingredient": "Azoxystrobin 18.2% + Difenoconazole 11.4% SC",
+      "description": "Dual-mode strobilurin and triazole combination delivering both preventive and curative control of foliar gray leaf blights.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Systemic Curative Fungicide",
+      "active_ingredient": "Pyraclostrobin 20% WG",
+      "description": "Foliar protectant with plant health physiological benefits, applied around tassel emergence if lesions reach ear leaf.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Corn_(maize)___Lethal_Necrosis": [
+    {
+      "treatment_type": "Viral Disease Advisory (Important)",
+      "active_ingredient": "None (Viral Pathogen)",
+      "description": "Maize Lethal Necrosis is caused by viral coinfection. No chemical spray can cure or eliminate the virus inside plants. Management requires vector control and destruction of diseased plants.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Seed Treatment Insecticide (Vector Protection)",
+      "active_ingredient": "Imidacloprid 70% WS",
+      "description": "Certified systemic seed treatment to shield early corn seedlings from thrips and corn flea beetle transmission vectors.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ],
+  "Soybean___healthy": [],
+  "Cabbage___Black_Rot": [
+    {
+      "treatment_type": "Protective Copper Bactericide",
+      "active_ingredient": "Copper Hydroxide 77% WP",
+      "description": "Inorganic surface bactericide applied during early vegetative stage or immediately after rain events to limit hydathode penetration.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    },
+    {
+      "treatment_type": "Bactericide Seed Disinfestation",
+      "active_ingredient": "Streptomycin Sulphate 90% + Tetracycline 10% SP",
+      "description": "Pre-sowing seed soak solution used where permitted by official extension guidance to disinfect certified brassica seed lots.",
+      "safety_note": "Follow the current product label. Check crop approval and disease registration. Use required PPE. Follow the product's pre-harvest interval (PHI). Follow local agricultural guidance."
+    }
+  ]
+}

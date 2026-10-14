@@ -1,0 +1,313 @@
+{
+  "Tomato___healthy": {
+    "label": "Tomato___healthy",
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "status": "healthy",
+    "description": "The tomato plant shows healthy foliage, vibrant green color, and no visible lesions, wilting, or pest damage.",
+    "symptoms": [
+      "Vigorous green leaves without spots or holes",
+      "Firm stems and uniform growth",
+      "No leaf curl, mold, or yellowing"
+    ],
+    "prevention": [
+      "Maintain consistent, regular drip irrigation at the root zone",
+      "Ensure proper plant spacing for sunlight and air circulation",
+      "Regularly inspect leaves for early signs of pests or disease",
+      "Rotate crops annually to maintain healthy soil biology"
+    ],
+    "disclaimer": "Continue standard crop management and routine scouting."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "label": "Tomato___Septoria_leaf_spot",
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "status": "diseased",
+    "description": "A destructive fungal infection caused by Septoria lycopersici that starts on lower leaves and progresses upward.",
+    "symptoms": [
+      "Small, circular spots with dark brown margins and gray or tan centers",
+      "Tiny black specks (fruiting bodies) in center of spots",
+      "Leaves turn yellow around spots, then wither and fall off prematurely"
+    ],
+    "prevention": [
+      "Remove and destroy infected lower leaves promptly",
+      "Mulch around the base of plants to prevent fungal spores splashing from soil",
+      "Avoid overhead watering; irrigate soil directly in the early morning",
+      "Practice 2-3 year crop rotation away from solanaceous crops (tomatoes, peppers, eggplants)"
+    ],
+    "disclaimer": "Consult your local agricultural extension service or certified agronomist for approved organic or chemical fungicide applications."
+  },
+  "Tomato___Bacterial_spot": {
+    "label": "Tomato___Bacterial_spot",
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "status": "diseased",
+    "description": "Bacterial disease caused by Xanthomonas species, thriving in warm, humid, and rainy conditions.",
+    "symptoms": [
+      "Small, dark brown to black water-soaked lesions on foliage",
+      "Spots may develop a distinct yellow halo",
+      "Leaves become ragged, turn yellow, and drop",
+      "Rough, scabby raised spots on fruit"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds and transplants",
+      "Sanitize all tools, stakes, and cages between handling plants",
+      "Avoid working in fields or touching wet foliage",
+      "Ensure wide plant spacing to promote rapid leaf drying"
+    ],
+    "disclaimer": "Consult your local agricultural extension office regarding preventive copper bactericide sprays and resistant cultivar selection."
+  },
+  "Tomato___Late_blight": {
+    "label": "Tomato___Late_blight",
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "status": "diseased",
+    "description": "A fast-spreading disease caused by the oomycete Phytophthora infestans, favored by cool, wet weather.",
+    "symptoms": [
+      "Irregular, water-soaked pale to dark brown greasy lesions on leaves",
+      "White fungal-like fuzz on undersides of leaves in humid conditions",
+      "Stems turn dark brown to black and plants collapse quickly",
+      "Firm, dark, greasy blotches on fruit"
+    ],
+    "prevention": [
+      "Remove and destroy all severely infected plants immediately (do not compost)",
+      "Keep foliage dry by watering the soil directly",
+      "Maintain excellent air circulation through proper staking and pruning",
+      "Destroy volunteer tomato and potato plants from previous seasons"
+    ],
+    "disclaimer": "Late blight spreads rapidly in moist conditions. Immediately report outbreaks to your local agricultural extension agent for region-specific containment guidance."
+  },
+  "Cabbage___healthy": {
+    "label": "Cabbage___healthy",
+    "crop": "Cabbage",
+    "disease": "Healthy",
+    "status": "healthy",
+    "description": "Cabbage foliage is healthy, firm, uniformly green or purple, showing robust vegetative head formation.",
+    "symptoms": [
+      "Thick, waxy, uniform green leaves",
+      "No V-shaped yellow lesions or black veins",
+      "Firm head development with no rot"
+    ],
+    "prevention": [
+      "Provide consistent soil moisture and avoid water stress",
+      "Mulch soil to regulate temperature and retain moisture",
+      "Scout regularly for common pests like caterpillars and aphids",
+      "Practice balanced fertilization with adequate micronutrients"
+    ],
+    "disclaimer": "Continue good cultural practices and regular field monitoring."
+  },
+  "Tomato___Spider_mites": {
+    "label": "Tomato___Spider_mites",
+    "crop": "Tomato",
+    "disease": "Two-Spotted Spider Mites",
+    "status": "diseased",
+    "description": "Microscopic arachnid pests that pierce plant cells on leaf undersides, common in hot, dry, dusty weather.",
+    "symptoms": [
+      "Fine yellow or white stippling (tiny dots) across upper leaf surfaces",
+      "Delicate, silky webbing on leaf undersides and leaf axils",
+      "Leaves turn bronze, dry out, become brittle, and drop"
+    ],
+    "prevention": [
+      "Spray undersides of leaves with strong streams of water to dislodge mites",
+      "Maintain adequate irrigation to reduce plant moisture stress",
+      "Encourage beneficial natural predators like ladybugs and predatory mites",
+      "Control dust on field paths and suppress weeds around fields"
+    ],
+    "disclaimer": "Contact local agricultural officers for advice on insecticidal soaps, horticultural oils, or biological control agents."
+  },
+  "Tomato___Leaf_Mold": {
+    "label": "Tomato___Leaf_Mold",
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "status": "diseased",
+    "description": "Fungal disease caused by Passalora fulva (Cladosporium fulvum), prominent in high humidity and polytunnels/greenhouses.",
+    "symptoms": [
+      "Pale green to yellow spots with indefinite margins on upper leaf surfaces",
+      "Olive-green to velvety brown mold growth on corresponding lower leaf surfaces",
+      "Infected leaves wither, turn yellow-brown, and die prematurely"
+    ],
+    "prevention": [
+      "Maximize ventilation and airflow in greenhouses and dense canopies",
+      "Keep relative humidity below 85% through heating and ventilation",
+      "Avoid wetting the foliage during watering",
+      "Prune lower foliage and suckers to enhance sunlight penetration"
+    ],
+    "disclaimer": "Check with your local agricultural officer for certified resistant tomato varieties and suitable preventive sprays."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "crop": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "status": "diseased",
+    "description": "A devastating viral disease transmitted by the silverleaf whitefly (Bemisia tabaci).",
+    "symptoms": [
+      "Severe upward curling and cupping of leaf margins",
+      "Pronounced yellowing (chlorosis) between veins and along leaf margins",
+      "Marked plant stunting, bushy upright growth, and small leaves",
+      "Flower abortion and severe reduction in fruit set"
+    ],
+    "prevention": [
+      "Control whitefly populations using yellow sticky traps and insect exclusion netting",
+      "Remove and bag infected plants as soon as symptoms appear to prevent spread",
+      "Plant certified TYLCV-resistant or tolerant hybrid cultivars",
+      "Eliminate weed hosts around field borders"
+    ],
+    "disclaimer": "Viruses cannot be cured once inside the plant. Seek advice from your local agricultural extension service on integrated whitefly vector management."
+  },
+  "Soybean___Frogeye_Leaf_Spot": {
+    "label": "Soybean___Frogeye_Leaf_Spot",
+    "crop": "Soybean",
+    "disease": "Frogeye Leaf Spot",
+    "status": "diseased",
+    "description": "A fungal disease caused by Cercospora sojina, favoring warm, humid weather and frequent rains.",
+    "symptoms": [
+      "Small, circular to angular spots with dark reddish-brown borders",
+      "Centers of lesions become light gray to tan, resembling a frog's eye",
+      "Multiple spots may merge, causing large dead areas and leaf shedding"
+    ],
+    "prevention": [
+      "Plant certified resistant soybean seed varieties",
+      "Incorporate or bury crop residue after harvest to reduce spore carryover",
+      "Rotate crops with non-host crops such as corn or sorghum for 1-2 years",
+      "Use clean tillage where soil conservation practices permit"
+    ],
+    "disclaimer": "Consult your agricultural advisor to assess economic threshold and fungicide recommendations if disease pressure is high."
+  },
+  "Soybean___Downy_Mildew": {
+    "label": "Soybean___Downy_Mildew",
+    "crop": "Soybean",
+    "disease": "Downy Mildew",
+    "status": "diseased",
+    "description": "Fungal-like disease caused by Peronospora manshurica, common during cool, damp, and high-humidity weather.",
+    "symptoms": [
+      "Pale green to light yellow chlorotic spots on upper leaf surfaces",
+      "Spots enlarge and turn bright yellow, later grayish-brown with yellow rims",
+      "Fluffy, grayish-purple mold on the lower leaf surface under high humidity",
+      "Whitish crust may appear on seeds from severely infected pods"
+    ],
+    "prevention": [
+      "Select resistant soybean cultivars adapted to your region",
+      "Rotate with corn, small grains, or other non-host crops",
+      "Avoid planting overly dense rows to allow morning dew to dry quickly",
+      "Plow under or shred crop residues after harvest"
+    ],
+    "disclaimer": "Generally causes minor yield loss unless severe. Check with your agricultural extension agent for regional scouting advice."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "label": "Corn_(maize)___Common_rust_",
+    "crop": "Corn (Maize)",
+    "disease": "Common Rust",
+    "status": "diseased",
+    "description": "Fungal disease caused by Puccinia sorghi, favored by cool, moist conditions and moderate temperatures.",
+    "symptoms": [
+      "Small, powdery, cinnamon-brown to reddish pustules on both leaf surfaces",
+      "Pustules rupture the leaf epidermis, releasing brown powdery spores",
+      "As plants mature, pustules turn brownish-black",
+      "Severe infection causes chlorosis and premature leaf death"
+    ],
+    "prevention": [
+      "Plant rust-resistant hybrid corn varieties",
+      "Plant early in the season to avoid peak spore dispersal periods",
+      "Maintain balanced nitrogen and potassium soil fertility",
+      "Rotate fields with legumes or other non-grass crops"
+    ],
+    "disclaimer": "Consult your local agricultural extension service for hybrid resistance ratings and targeted rust treatments."
+  },
+  "Corn_(maize)___healthy": {
+    "label": "Corn_(maize)___healthy",
+    "crop": "Corn (Maize)",
+    "disease": "Healthy",
+    "status": "healthy",
+    "description": "Maize foliage displays uniform dark green color, upright strong blades, and robust vegetative or ear growth.",
+    "symptoms": [
+      "Broad, vibrant green leaves without chlorotic streaks or pustules",
+      "Thick, sturdy stalks and healthy root anchorage",
+      "Even tassel and ear development"
+    ],
+    "prevention": [
+      "Conduct soil testing and apply balanced N-P-K nutrients",
+      "Ensure proper plant population and row spacing",
+      "Manage weed competition during early growth stages",
+      "Monitor soil moisture during pollination and grain fill"
+    ],
+    "disclaimer": "Continue routine field scouting and standard crop management."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "label": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "crop": "Corn (Maize)",
+    "disease": "Gray Leaf Spot",
+    "status": "diseased",
+    "description": "A serious foliar fungal disease caused by Cercospora zeae-maydis, favored by high humidity, overcast days, and warm weather.",
+    "symptoms": [
+      "Small, tan spots with yellow halos that expand into narrow, rectangular lesions",
+      "Lesions strictly bounded by leaf veins, creating rectangular 'box-car' shapes",
+      "Lesions turn gray or tan and can coalesce to blight entire leaves"
+    ],
+    "prevention": [
+      "Plant corn hybrids with high genetic tolerance or resistance",
+      "Practice crop rotation with soybeans, alfalfa, or other non-host crops",
+      "Manage surface crop residue to reduce fungal survival over winter",
+      "Avoid excessive plant densities that prolong leaf wetness"
+    ],
+    "disclaimer": "Seek guidance from your local agricultural extension agent regarding economic thresholds and timely fungicide application."
+  },
+  "Corn_(maize)___Lethal_Necrosis": {
+    "label": "Corn_(maize)___Lethal_Necrosis",
+    "crop": "Corn (Maize)",
+    "disease": "Maize Lethal Necrosis (MLND)",
+    "status": "diseased",
+    "description": "A severe viral disease resulting from synergistic co-infection of Maize Chlorotic Mottle Virus (MCMV) and a potyvirus (such as SCMV).",
+    "symptoms": [
+      "Severe chlorotic mottling on leaves starting from leaf margins",
+      "Drying of leaf margins and tips leading to complete 'dead heart'",
+      "Severe stunting, premature plant death, failure of ear development",
+      "Small, deformed, or rotted cobs with little or no grain"
+    ],
+    "prevention": [
+      "Use certified virus-free seed treated against insect vectors",
+      "Strictly enforce crop-free periods and crop rotation with non-cereal crops",
+      "Control insect vectors (thrips, leaf beetles, aphids) early in the season",
+      "Immediately uproot and burn infected plants to prevent field spread"
+    ],
+    "disclaimer": "Maize Lethal Necrosis can cause 100% crop loss. Promptly report suspected cases to the ministry of agriculture or local extension office."
+  },
+  "Soybean___healthy": {
+    "label": "Soybean___healthy",
+    "crop": "Soybean",
+    "disease": "Healthy",
+    "status": "healthy",
+    "description": "Soybean foliage is clean, rich green, and showing uniform trifoliate leaf development and vigorous pod set.",
+    "symptoms": [
+      "Clean, uniform trifoliate green leaves",
+      "No spots, necrotic margins, or downy mold",
+      "Strong nodulation and healthy stem development"
+    ],
+    "prevention": [
+      "Ensure proper seed inoculation with Bradyrhizobium bacteria",
+      "Maintain adequate soil drainage and avoid soil compaction",
+      "Monitor fields regularly for weed escapes and defoliating insects",
+      "Practice regular multi-year crop rotation"
+    ],
+    "disclaimer": "Continue good cultural practices and regular field monitoring."
+  },
+  "Cabbage___Black_Rot": {
+    "label": "Cabbage___Black_Rot",
+    "crop": "Cabbage",
+    "disease": "Black Rot",
+    "status": "diseased",
+    "description": "One of the most destructive bacterial diseases of cruciferous crops, caused by Xanthomonas campestris pv. campestris.",
+    "symptoms": [
+      "Distinct V-shaped yellow (chlorotic) lesions starting at the leaf margin with wide part pointing to edge",
+      "Veins within the yellow area turn dark brown or distinctly black",
+      "Leaves turn yellow, wilt, become papery, and drop prematurely",
+      "Black ring in the vascular system when stem is cut crosswise"
+    ],
+    "prevention": [
+      "Use certified hot-water-treated, disease-free seed and clean transplants",
+      "Rotate with non-cruciferous crops for at least 3 years",
+      "Control cruciferous weeds (e.g., wild mustard) that harbor the bacteria",
+      "Avoid overhead sprinkler irrigation and working among plants while wet"
+    ],
+    "disclaimer": "There is no cure once plants are infected. Remove diseased plants and consult your local agricultural extension service for sanitation and resistant varieties."
+  }
+}

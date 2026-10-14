@@ -1,0 +1,294 @@
+{
+  "Tomato___healthy": [
+    {
+      "title": "Routine Crop Scouting",
+      "description": "Inspect 20 random plants weekly across the field, especially lower leaves and leaf undersides, for early pest or disease symptoms.",
+      "category": "monitoring"
+    },
+    {
+      "title": "Drip Irrigation Management",
+      "description": "Maintain uniform soil moisture at the root zone via drip lines; avoid wetting the foliage to discourage fungal spore germination.",
+      "category": "irrigation"
+    },
+    {
+      "title": "Soil Organic Enrichment",
+      "description": "Incorporate well-decomposed farmyard manure (FYM) or vermicompost to promote beneficial soil microbiome diversity.",
+      "category": "soil"
+    }
+  ],
+  "Tomato___Septoria_leaf_spot": [
+    {
+      "title": "Lower Canopy Pruning & Sanitation",
+      "description": "Prune and destroy infected lower leaves up to 12 inches above the soil line to eliminate splash inoculation sources.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Bio-control with Trichoderma / Pseudomonas",
+      "description": "Foliar spray with Trichoderma harzianum or Pseudomonas fluorescens culture early morning to colonize leaf surfaces and outcompete fungal spores.",
+      "category": "biological"
+    },
+    {
+      "title": "Organic Mulching",
+      "description": "Apply a 2-inch layer of clean paddy straw or plastic mulch around the plant base to prevent rain and irrigation droplets splashing soil spores onto leaves.",
+      "category": "cultural"
+    },
+    {
+      "title": "Crop Rotation Cycle",
+      "description": "Rotate with non-solanaceous crops (maize, legumes, crucifers) for at least 2 to 3 years to starve fungal resting spores in soil.",
+      "category": "cultural"
+    }
+  ],
+  "Tomato___Bacterial_spot": [
+    {
+      "title": "Hot Water Seed Treatment",
+      "description": "Soak seed in water at 50°C for 25 minutes prior to nursery sowing to eradicate seed-borne bacterial inoculum.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Biological Antagonist Application",
+      "description": "Spray Pseudomonas fluorescens or Bacillus subtilis cell suspension to competitively displace bacterial pathogens on leaves.",
+      "category": "biological"
+    },
+    {
+      "title": "Avoid Handling Wet Plants",
+      "description": "Never prune, stake, or harvest while leaves are wet with rain or morning dew, as bacterial droplets spread readily on tools and hands.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Airflow & Staking",
+      "description": "Stake plants properly and maintain 60 cm between rows to accelerate leaf canopy drying after rain.",
+      "category": "cultural"
+    }
+  ],
+  "Tomato___Late_blight": [
+    {
+      "title": "Immediate Eradication of Infected Foliage",
+      "description": "Bag and deeply bury or burn severely blighted leaves and infected vines immediately. Do not add infected residue to compost piles.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Trichoderma Soil & Foliar Bio-shield",
+      "description": "Apply Trichoderma viride enriched FYM to the root zone and spray bio-fungicide formulations during cool, damp weather to inhibit oomycete sporulation.",
+      "category": "biological"
+    },
+    {
+      "title": "Strict Furrow/Drip Irrigation",
+      "description": "Never use overhead sprinklers. Irrigate early in the morning so sun quickly evaporates any accidental moisture from lower stems.",
+      "category": "irrigation"
+    },
+    {
+      "title": "Elimination of Volunteer Solanaceous Hosts",
+      "description": "Destroy volunteer tomato, potato, and weed nightshades around field margins that act as overwintering infection reservoirs.",
+      "category": "sanitation"
+    }
+  ],
+  "Cabbage___healthy": [
+    {
+      "title": "Regular Moisture Maintenance",
+      "description": "Maintain even soil moisture to avoid split cabbage heads and prevent moisture stress.",
+      "category": "irrigation"
+    },
+    {
+      "title": "Beneficial Soil Organic Matter",
+      "description": "Apply composted neem cake or vermicompost to fortify soil with nutrients and natural pest repellency.",
+      "category": "soil"
+    },
+    {
+      "title": "Weekly Scouting for Pests",
+      "description": "Inspect inner leaves and head whorls for early signs of diamondback moth caterpillars or aphids.",
+      "category": "monitoring"
+    }
+  ],
+  "Tomato___Spider_mites": [
+    {
+      "title": "Neem Oil / Azadirachtin Spray",
+      "description": "Apply cold-pressed neem seed kernel extract (NSKE) or botanical neem oil targeting the leaf undersides where mites feed and lay eggs.",
+      "category": "biological"
+    },
+    {
+      "title": "Biological Predatory Mites",
+      "description": "Encourage or release native predatory mites (e.g., Phytoseiidae species) and ladybird beetles (Stethorus) that actively consume spider mites.",
+      "category": "biological"
+    },
+    {
+      "title": "High-Pressure Water Spray",
+      "description": "Direct a firm stream of clean water to the underside of leaves during morning hours to physically disrupt webbing and dislodge mites.",
+      "category": "cultural"
+    },
+    {
+      "title": "Dust & Border Weed Control",
+      "description": "Wet farm access paths to reduce airborne dust (which promotes mite outbreaks) and remove wild weed hosts from bunds.",
+      "category": "sanitation"
+    }
+  ],
+  "Tomato___Leaf_Mold": [
+    {
+      "title": "High Ventilation & Defoliation",
+      "description": "Remove lower older leaves and suckers up to the first fruit cluster to promote strong horizontal air currents through the crop canopy.",
+      "category": "cultural"
+    },
+    {
+      "title": "Biological Bio-fungicide Application",
+      "description": "Apply Bacillus subtilis or Trichoderma harzianum bio-agent sprays to suppress mycelial development on lower leaf surfaces.",
+      "category": "biological"
+    },
+    {
+      "title": "Relative Humidity Reduction",
+      "description": "In polyhouse or sheltered conditions, maintain humidity below 85% by opening side curtains and ensuring good ground drainage.",
+      "category": "cultural"
+    }
+  ],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+    {
+      "title": "Strict Eradication of Infected Plants (Rogueing)",
+      "description": "Uproot viral-symptomatic plants into sealed bags as soon as observed and destroy them to prevent whiteflies acquiring and spreading virus.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Yellow Sticky Traps for Vector Monitoring",
+      "description": "Install 15-20 bright yellow sticky traps per acre just above crop canopy height to capture and monitor adult whitefly populations.",
+      "category": "monitoring"
+    },
+    {
+      "title": "Insect Exclusion Nursery Netting",
+      "description": "Raise seedlings under 40-50 mesh insect-proof nylon net tunnels to prevent viruliferous whiteflies infesting young nursery plants.",
+      "category": "cultural"
+    },
+    {
+      "title": "Neem-Based Whitefly Repellent",
+      "description": "Spray 1% neem oil or NSKE extract to repel whiteflies and inhibit egg hatching on tender top foliage.",
+      "category": "biological"
+    }
+  ],
+  "Soybean___Frogeye_Leaf_Spot": [
+    {
+      "title": "Deep Summer Tillage",
+      "description": "Incorporate and deeply bury previous crop stubble to accelerate decomposition of fungal stromata before the new growing season.",
+      "category": "soil"
+    },
+    {
+      "title": "Trichoderma Seed Inoculation",
+      "description": "Treat soybean seeds with Trichoderma viride dry powder formulation along with Rhizobium inoculant before sowing.",
+      "category": "biological"
+    },
+    {
+      "title": "2-Year Crop Rotation",
+      "description": "Rotate soybean fields with corn, sorghum, or small grain cereals for two consecutive seasons to disrupt the pathogen cycle.",
+      "category": "cultural"
+    }
+  ],
+  "Soybean___Downy_Mildew": [
+    {
+      "title": "Plant Density Optimization",
+      "description": "Avoid excessive seed rates; maintain 45 cm row spacing to facilitate sun penetration and rapid morning dew evaporation.",
+      "category": "cultural"
+    },
+    {
+      "title": "Biological Seed Coating",
+      "description": "Inoculate certified seeds with Pseudomonas fluorescens bio-formulation to protect early seedling emergence from oospore infection.",
+      "category": "biological"
+    },
+    {
+      "title": "Clean Field Sanitation",
+      "description": "Destroy volunteer soybean seedlings and infected haulms remaining in the field post-harvest.",
+      "category": "sanitation"
+    }
+  ],
+  "Corn_(maize)___Common_rust_": [
+    {
+      "title": "Early Planting Schedule",
+      "description": "Sow maize crops early in the season to ensure grain filling finishes before peak cool, humid conditions favor rust development.",
+      "category": "cultural"
+    },
+    {
+      "title": "Balanced Nutrient Management",
+      "description": "Avoid excessive nitrogen application which produces succulent, rust-susceptible tissues; apply adequate potassium to strengthen cell walls.",
+      "category": "soil"
+    },
+    {
+      "title": "Trichoderma Soil Application",
+      "description": "Incorporate Trichoderma-fortified compost during basal soil preparation to stimulate systemic induced plant defense mechanisms.",
+      "category": "biological"
+    }
+  ],
+  "Corn_(maize)___healthy": [
+    {
+      "title": "Optimal Soil Aeration & Moisture",
+      "description": "Ensure good drainage during flowering and grain fill; avoid both water-logging and severe moisture deficit.",
+      "category": "irrigation"
+    },
+    {
+      "title": "Routine Vegetative Scouting",
+      "description": "Check top and bottom leaves every two weeks for signs of stem borers, armyworms, or foliar leaf spots.",
+      "category": "monitoring"
+    }
+  ],
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": [
+    {
+      "title": "Crop Residue Management",
+      "description": "Chop and bury corn stalks after harvest to speed microbial breakdown of fungal debris living in surface residues.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Non-Host Crop Rotation",
+      "description": "Alternate corn with soybean, groundnut, or pigeon pea for two seasons; Cercospora cannot survive on dicotyledonous crops.",
+      "category": "cultural"
+    },
+    {
+      "title": "Canopy Airflow Enhancement",
+      "description": "Maintain recommended plant populations (around 24,000 plants per acre) to prevent prolonged humidity inside the canopy.",
+      "category": "cultural"
+    }
+  ],
+  "Corn_(maize)___Lethal_Necrosis": [
+    {
+      "title": "Complete Rogueing & Quarantine",
+      "description": "Immediately pull out and burn any maize plants showing mottled chlorosis or dead hearts to prevent vector spread.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Strict Crop-Free Break Period",
+      "description": "Observe at least a 2-month maize-free period across the community to break the lifecycle of insect vectors (thrips and chrysomelids).",
+      "category": "cultural"
+    },
+    {
+      "title": "Non-Grass Crop Diversification",
+      "description": "Rotate fields strictly with legumes, sunflower, or cotton; avoid planting near sorghum, sugarcane, or wild grass borders.",
+      "category": "cultural"
+    }
+  ],
+  "Soybean___healthy": [
+    {
+      "title": "Rhizobium Bio-fertilizer Management",
+      "description": "Ensure optimal nodulation by maintaining neutral soil pH and avoiding unnecessary synthetic nitrogen overload.",
+      "category": "soil"
+    },
+    {
+      "title": "Routine Field Monitoring",
+      "description": "Inspect leaf whorls and pod clusters during flowering and pod development for early signs of defoliation or blight.",
+      "category": "monitoring"
+    }
+  ],
+  "Cabbage___Black_Rot": [
+    {
+      "title": "Hot Water Seed Disinfestation",
+      "description": "Immerse cabbage seed in hot water at precisely 50°C for 30 minutes, followed by rapid cooling, to kill seed-borne Xanthomonas bacteria.",
+      "category": "sanitation"
+    },
+    {
+      "title": "3-Year Crucifer-Free Rotation",
+      "description": "Never plant cabbage, cauliflower, mustard, or radish on the same land for 3 years; rotate with corn, legumes, or solanaceous crops.",
+      "category": "cultural"
+    },
+    {
+      "title": "Elimination of Wild Cruciferous Weeds",
+      "description": "Eradicate wild mustard, shepherd's purse, and radish weeds along field boundaries that harbor and multiply the bacterial pathogen.",
+      "category": "sanitation"
+    },
+    {
+      "title": "Drip Irrigation",
+      "description": "Irrigate strictly via drip lines at ground level; overhead splashing spreads bacterial droplets across leaves rapidly.",
+      "category": "irrigation"
+    }
+  ]
+}

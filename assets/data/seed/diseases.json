@@ -1,0 +1,114 @@
+[
+  {
+    "label": "Tomato___healthy",
+    "crop": "Tomato",
+    "disease_name": "Healthy",
+    "description": "The tomato foliage is vigorous, uniformly green, free from foliar lesions, bacterial spots, insect webs, or viral mottling.",
+    "is_healthy": 1
+  },
+  {
+    "label": "Tomato___Septoria_leaf_spot",
+    "crop": "Tomato",
+    "disease_name": "Septoria Leaf Spot",
+    "description": "A destructive fungal foliar disease caused by Septoria lycopersici, initiating on lower leaves as circular water-soaked spots with dark margins and gray centers.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Tomato___Bacterial_spot",
+    "crop": "Tomato",
+    "disease_name": "Bacterial Spot",
+    "description": "Bacterial disease caused by Xanthomonas campestris pv. vesicatoria, characterized by small, greasy dark lesions with chlorotic halos, thriving in warm, rainy weather.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Tomato___Late_blight",
+    "crop": "Tomato",
+    "disease_name": "Late Blight",
+    "description": "A severe oomycete disease caused by Phytophthora infestans, causing rapidly expanding pale green to dark water-soaked greasy lesions, white mold beneath leaves, and rapid vine collapse.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Cabbage___healthy",
+    "crop": "Cabbage",
+    "disease_name": "Healthy",
+    "description": "The cabbage plant displays crisp, waxy, uniform green or purplish leaves with no V-shaped chlorosis or black vascular rings.",
+    "is_healthy": 1
+  },
+  {
+    "label": "Tomato___Spider_mites",
+    "crop": "Tomato",
+    "disease_name": "Two-Spotted Spider Mites",
+    "description": "Pest damage caused by Tetranychus urticae feeding on cell sap under leaves, producing dense stippling, chlorotic bronzing, and delicate silk webbing.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Tomato___Leaf_Mold",
+    "crop": "Tomato",
+    "disease_name": "Leaf Mold",
+    "description": "Fungal infection caused by Passalora fulva (Cladosporium fulvum), causing pale yellow chlorotic patches on upper leaf surfaces and velvety olive-brown sporulation beneath.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "crop": "Tomato",
+    "disease_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "description": "A devastating begomovirus transmitted by the whitefly Bemisia tabaci, causing severe leaf curling, yellow interveinal chlorosis, bushiness, stunting, and flower abortion.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Soybean___Frogeye_Leaf_Spot",
+    "crop": "Soybean",
+    "disease_name": "Frogeye Leaf Spot",
+    "description": "Fungal disease caused by Cercospora sojina, causing circular to angular eye-like spots with reddish-brown borders and ash-gray centers.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Soybean___Downy_Mildew",
+    "crop": "Soybean",
+    "disease_name": "Downy Mildew",
+    "description": "Foliar disease caused by Peronospora manshurica, producing yellowish speckles on upper leaf surfaces and fluffy gray-purple mycelium on corresponding leaf undersides.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Corn_(maize)___Common_rust_",
+    "crop": "Corn (Maize)",
+    "disease_name": "Common Rust",
+    "description": "Fungal disease caused by Puccinia sorghi, producing oval to elongate reddish-brown powdery pustules that rupture both leaf surfaces in cool, humid weather.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Corn_(maize)___healthy",
+    "crop": "Corn (Maize)",
+    "disease_name": "Healthy",
+    "description": "Maize plants exhibit strong green leaf blades, sturdy stalks, and vigorous tassel/ear development without necrotic lesions or rust pustules.",
+    "is_healthy": 1
+  },
+  {
+    "label": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "crop": "Corn (Maize)",
+    "disease_name": "Gray Leaf Spot",
+    "description": "A severe fungal disease caused by Cercospora zeae-maydis, forming narrow rectangular tan lesions strictly delimited by leaf veins.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Corn_(maize)___Lethal_Necrosis",
+    "crop": "Corn (Maize)",
+    "disease_name": "Maize Lethal Necrosis (MLND)",
+    "description": "A destructive viral disease caused by synergistic coinfection of Maize Chlorotic Mottle Virus (MCMV) with a potyvirus (SCMV), causing leaf margin necrosis and dead hearts.",
+    "is_healthy": 0
+  },
+  {
+    "label": "Soybean___healthy",
+    "crop": "Soybean",
+    "disease_name": "Healthy",
+    "description": "Soybean leaves show uniform rich green trifoliate foliage, strong nodulation, and healthy vegetative/pod development without spotting.",
+    "is_healthy": 1
+  },
+  {
+    "label": "Cabbage___Black_Rot",
+    "crop": "Cabbage",
+    "disease_name": "Black Rot",
+    "description": "A high-impact bacterial disease caused by Xanthomonas campestris pv. campestris, showing distinctive V-shaped yellow lesions with blackened veins pointing towards leaf bases.",
+    "is_healthy": 0
+  }
+]
